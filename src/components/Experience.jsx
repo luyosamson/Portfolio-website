@@ -5,6 +5,10 @@ import github from '../assets/github.png'
 import javascript from '../assets/javascript.png'
 import tailwind from '../assets/tailwind.png'
 import reactImage from '../assets/react.png'
+import ruby from '../assets/ruby.jpeg'
+import rails from '../assets/Rails.png'
+import git from '../assets/git.png'
+import postgress from '../assets/postgress.png'
 
 function Experience() {
 
@@ -46,8 +50,32 @@ const techno=[
  src:github,
  title:"Github",
  style:'shadow-gray-400'
-}
+},
+{
+ id:7,
+ src:ruby,
+ title:"Ruby",
+ style:'shadow-red-500'
+},
+{
+ id:8,
+ src:rails,
+ title:"Ruby on Rails",
+ style:'shadow-red-500'
+},
+{
+ id:9,
+ src:postgress,
+ title:"Postgress",
+ style:'shadow-blue-500'
+},
 
+{
+ id:10,
+ src:git,
+ title:"Git",
+ style:'shadow-gray-500'
+},
 
 ]
 
@@ -63,7 +91,8 @@ const techno=[
                 p-2 inline'>
                     Experience
                 </p>
-                <p className='py-6'>These are my technology stack I work with</p>
+                <p className='py-6'>I'm comfortable working with the following <br/>
+                Languages and  Frameworke</p>
             </div>
 
             <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 
