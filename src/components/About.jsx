@@ -4,7 +4,9 @@ const About = () => {
   return (
     <div name="about" className='w-full h-screen bg-gradient-to-b
     from-gray-800 to-black text-white'>
-        <div className='max-w-screen-lg p-4 max-auto flex flex-col
+        {/* <div className='max-w-screen-lg p-4 max-auto flex flex-col
+        justify-center w-full h-full'> */}
+        <div className='max-w-screen-lg p-4 mx-auto flex flex-col
         justify-center w-full h-full'>
             <div pb-8>
                 <p className='text-4xl font-bold inline border-b-4
@@ -12,20 +14,20 @@ const About = () => {
             </div>
 
             <p className='text-xl mt-20'>
-               Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-               Suscipit quidem porro unde tenetur quia! Accusamus assumenda 
-               vel illo veritatis officiis sit voluptas in eveniet beatae,
-                reiciendis molestias repellat quam dolore. Perspiciatis, 
-                mollitia dignissimos numquam facere maiores et facilis possimus culpa error pariatur
-                odit rerum excepturi ducimus, quam provident eaque unde.
+               I am a full-stack software developer with a passion for creating robust, accessible, and user-friendly web applications.
+                I have experience working with HTML, CSS, JavaScript, React, and  back-end technologies such as Ruby and Ruby on rail ,MySQL and Postgress. I enjoy problem-solving and developing innovative solutions to complex challenges.
+                I am self-motivated, organized, and diligent in my work.
+                I strive to stay current with the latest technologies and trends in the industry.
+                I take pride in creating high-quality products that exceed customer expectations. 
+                Yes, I love challenges and strive to be the best at what I do.
             </p>
             <br />
             <p className='text-xl'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                Delectus quo aliquam cum? Sequi libero, corrupti qui repellendus velit aliquid. 
-                Quaerat voluptatem qui blanditiis assumenda quo id fuga, 
-                facere nihil sequi ipsa error at aut dolore et! Facere accusantium commodi nemo vel eos 
-                magnam veritatis,excepturi cum illum veniam, doloribus asperiores?
+                I believe that good leadership helps to foster an environment of collaboration and team work.
+                 I prioritize communication and empowerment when leading projects and strive to create an
+                  open and inclusive environment that encourages constructive feedback and creative problem-solving.
+                   I appreciate the diversity of perspectives that team work provides,
+                    and I enjoy working together with others to achieve a common goal.
 
 
             </p>

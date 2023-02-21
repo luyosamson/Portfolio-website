@@ -92,7 +92,7 @@ const techno=[
                     Experience
                 </p>
                 <p className='py-6'>I'm comfortable working with the following <br/>
-                Languages and  Frameworke</p>
+                Languages,Frameworks and Tools</p>
             </div>
 
             <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 
