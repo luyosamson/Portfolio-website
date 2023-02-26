@@ -112,9 +112,7 @@ const techno=[
                         ))
 
                     }
-
-
-               
+  
 
             </div>
 
