@@ -11,19 +11,22 @@ import Example6 from '../assets/portfolio/Phase1ProjectScreen.png'
 function Portfolio() {
 
   const portfolios=[
-    {
+    
+
+
+   {
       id:1,
-      src: Example,
-      name:"New Life Hospital",
-      demo:"https://livelife-hospital.vercel.app/",
-      code:"https://github.com/luyosamson/Livelife_Hospital"
-    },
-    {
-      id:2,
       src:Example1,
       name:"Makao Homes",
       demo:"https://makao-homes.vercel.app/",
       code:"https://github.com/luyosamson/MakaoHomes"
+    },
+    {
+          id:2,
+      src: Example,
+      name:"New Life Hospital",
+      demo:"https://livelife-hospital.vercel.app/",
+      code:"https://github.com/luyosamson/Livelife_Hospital"
     },
     {
       id:3,
