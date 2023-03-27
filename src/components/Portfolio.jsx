@@ -28,7 +28,7 @@ function Portfolio() {
     {
       id:3,
       src:Example6,
-      name:"Project 3",
+      name:"FoodIn.com",
       demo:"https://luyosamson.github.io/phase-1-project/",
       code:"https://github.com/luyosamson/phase-1-project"
     },
