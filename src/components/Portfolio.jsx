@@ -5,6 +5,7 @@ import Example2 from '../assets/portfolio/usestate1.jpg'
 import Example3 from '../assets/portfolio/usestate2.jpg'
 import Example4 from '../assets/portfolio/usestate3.jpg'
 import Example5 from '../assets/portfolio/usestate4.jpg'
+import Example6 from '../assets/portfolio/Phase1ProjectScreen.png'
 
 
 function Portfolio() {
@@ -28,8 +29,8 @@ function Portfolio() {
       id:3,
       src:Example2,
       name:"Project 3",
-      demo:"https://example.com/demo3",
-      code:"https://github.com/example/project3"
+      demo:"luyosamson.github.io/phase-1-project/",
+      code:"https://github.com/luyosamson/phase-1-project"
     },
     {
       id:4,
