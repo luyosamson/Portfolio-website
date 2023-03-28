@@ -1,10 +1,6 @@
 import React from 'react'
 import Example from '../assets/portfolio/NewLife.png'
 import Example1 from '../assets/portfolio/MakaoHomes.png'
-// import Example2 from '../assets/portfolio/usestate1.jpg'
-import Example3 from '../assets/portfolio/usestate2.jpg'
-import Example4 from '../assets/portfolio/usestate3.jpg'
-import Example5 from '../assets/portfolio/usestate4.jpg'
 import Example6 from '../assets/portfolio/Phase1ProjectScreen.png'
 
 
@@ -34,27 +30,6 @@ function Portfolio() {
       name:"FoodIn.com",
       demo:"https://luyosamson.github.io/phase-1-project/",
       code:"https://github.com/luyosamson/phase-1-project"
-    },
-    {
-      id:4,
-      src:Example3,
-      name:"Project 4",
-      demo:"https://example.com/demo4",
-      code:"https://github.com/example/project4"
-    },
-    {
-      id:5,
-      src:Example4,
-      name:"Project 5",
-      demo:"https://example.com/demo5",
-      code:"https://github.com/example/project5"
-    },
-    {
-      id:6,
-      src:Example5,
-      name:"Project 6",
-      demo:"https://example.com/demo6",
-      code:"https://github.com/example/project6"
     }
   ]
 
