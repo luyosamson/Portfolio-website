@@ -2,6 +2,7 @@ import React from 'react'
 import Example from '../assets/portfolio/NewLife.png'
 import Example1 from '../assets/portfolio/MakaoHomes.png'
 import Example6 from '../assets/portfolio/Phase1ProjectScreen.png'
+import Example7 from '../assets/portfolio/Blossoms.png'
 
 
 function Portfolio() {
@@ -23,6 +24,13 @@ function Portfolio() {
       name:"New Life Hospital",
       demo:"https://livelife-hospital.vercel.app/",
       code:"https://github.com/luyosamson/Livelife_Hospital"
+    },
+          {
+      id:4,
+      src:Example7,
+      name:"Blossoms",
+      demo:"https://gleaming-platypus-8a6179.netlify.app/",
+      code:"https://github.com/luyosamson/BlossomsStore"
     },
     {
       id:3,
