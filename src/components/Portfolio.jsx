@@ -11,22 +11,15 @@ function Portfolio() {
     
 
 
-   {
-      id:1,
-      src:Example1,
-      name:"Makao Homes",
-      demo:"https://makao-homes.vercel.app/",
-      code:"https://github.com/luyosamson/MakaoHomes"
-    },
     {
-          id:2,
+      id:1,
       src: Example,
       name:"New Life Hospital",
       demo:"https://livelife-hospital.vercel.app/",
       code:"https://github.com/luyosamson/Livelife_Hospital"
     },
           {
-      id:4,
+      id:2,
       src:Example7,
       name:"Blossoms",
       demo:"https://gleaming-platypus-8a6179.netlify.app/",
@@ -34,6 +27,13 @@ function Portfolio() {
     },
     {
       id:3,
+      src:Example1,
+      name:"Makao Homes",
+      demo:"https://makao-homes.vercel.app/",
+      code:"https://github.com/luyosamson/MakaoHomes"
+    },
+    {
+      id:4,
       src:Example6,
       name:"FoodIn.com",
       demo:"https://luyosamson.github.io/phase-1-project/",
